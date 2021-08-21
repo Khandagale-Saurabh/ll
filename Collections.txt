@@ -1,0 +1,37 @@
+list:=duplicate,maintain insertion order
+1]ArrayList
+2]LinkedList
+3]Vector
+4]Stack
+
+B] Set:
+1]No DupicTtes,
+2]No need to maintain insertion order
+3] HashSet==>Hastable(On hashcode)->usefor searching//return false for duplicate
+4]LinkedHashSet==>Hashtable + linkedlist(maontin insertion order)
+
+C] SortedSet
+grp of individual object as single entity :without duplicates,
+ans all object are according to some order
+
+4]NavigableSet:
+1]previos,next element
+2] TreeSet
+
+=============
+cursor
+1]Enumeration=>one by one object(hasmoreElements,nextElement)
+Enumeration e=v.elemet();
+2]Iterator
+3]ListIterator
+PRorblem:=only for inbulde clasee like ArrLIset...but not for student,emp etc
+
+
+so we have iterator:
+B] Any collection claess
+2]remove,read operations
+boolean hasnext()
+next()
+remove()
+=====================
+TreeSet=>no dupliacte ,not maintain order,
