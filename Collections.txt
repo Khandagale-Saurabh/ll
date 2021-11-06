@@ -4,7 +4,9 @@ list:=duplicate,maintain insertion order
 3]Vector
 4]Stack
 B] Set:
-1]No DupicTtes,
+1]No DupicTtes
+
+
 2]No need to maintain insertion order
 3] HashSet==>Hastable(On hashcode)->usefor searching//return false for duplicate
 4]LinkedHashSet==>Hashtable + linkedlist(maontin insertion order)
