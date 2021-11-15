@@ -1,0 +1,8 @@
+frequencyu divion mul :=fm is example so 93.5 & 94.5 is seprate frequency...they are not overlapping on each other..it aviod collions.In frequency division multiplexing all the signals operate at the same time with different frequencies, but in time.
+
+
+time divion m:time division multiplexing all the signals operate with same frequency at different times.
+Synchronous TDM – 
+The time slots are pre-assigned and fixed.
+    2. Asynchronous (or statistical) TDM – 
+            The slots are allocated dynamically
